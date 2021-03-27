@@ -19,3 +19,22 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * A 561-feature vector with time and frequency domain variables.
 * Its activity label.
 * An identifier of the subject who carried out the experiment.
+
+## Exploratory Data Analysis 🗠
+
+### Countplot of Activities 📊
+
+`Below is the countplot of the activities performed by all the subjects.`
+<p align=center>
+  <img src="https://github.com/Ankit152/Human-Activity-Recognition/blob/main/img/countplot.jpg">
+</p>
+
+*From the above plot we can conclude that the datapoints are somewhat balanced.*
+
+### Countplot of Subjects 📊
+`Below is the countplot of the activities performed by all the subjects grouped by subjects.`
+<p align=center>
+  <img src="https://github.com/Ankit152/Human-Activity-Recognition/blob/main/img/subject.jpg">
+</p>
+
+*From the above plot we can conclude that a particular subject performs any of the activities more as compared to the other activities.*
