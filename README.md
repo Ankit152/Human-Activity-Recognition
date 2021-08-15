@@ -38,3 +38,13 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 </p>
 
 *From the above plot we can conclude that a particular subject performs any of the activities more as compared to the other activities.*
+
+### Model Accuracy
+<p align=center>
+  <img src="https://github.com/Ankit152/Human-Activity-Recognition/blob/main/img/accuracy.png">
+</p>
+
+### Model Loss
+<p align=center>
+  <img src="https://github.com/Ankit152/Human-Activity-Recognition/blob/main/img/loss.png">
+</p>
